@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "reading-time",
+    "name": "chrome-docs-reading-time-estimate",
     "version": "1.0",
     "description": "Add the reading time to Chrome Extension documentation articles",
     "icons": {
